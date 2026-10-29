@@ -1,0 +1,10 @@
+id: YDP342B001-V13
+category: displays
+size: "3.42"
+panel: tft
+resolution: 258x960
+interface: [mipi]
+driver: AXS15231B
+touch: null
+outline: null
+active_area: 22.56 x 84 mm
